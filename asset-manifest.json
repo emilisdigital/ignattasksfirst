@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ignattasks/static/css/main.5c2e6249.css",
+    "main.js": "/ignattasks/static/js/main.4dca8b0e.js",
+    "static/media/darling-in-the-franxx-zero-two-wallpaper-3840x1280_105.jpg": "/ignattasks/static/media/darling-in-the-franxx-zero-two-wallpaper-3840x1280_105.443db2286a26d261f2e8.jpg",
+    "index.html": "/ignattasks/index.html",
+    "main.5c2e6249.css.map": "/ignattasks/static/css/main.5c2e6249.css.map",
+    "main.4dca8b0e.js.map": "/ignattasks/static/js/main.4dca8b0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c2e6249.css",
+    "static/js/main.4dca8b0e.js"
+  ]
+}
