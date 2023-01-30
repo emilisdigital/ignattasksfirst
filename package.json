@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage":  "https://emilisdigital.github.io/ignattasks",
+  "homepage":  "https://emilisdigital.github.io/ignattasksfirst/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
